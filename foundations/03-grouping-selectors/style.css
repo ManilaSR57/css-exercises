@@ -1,0 +1,13 @@
+.first1 {
+    background-color: black;
+    color: white;
+}
+
+.second2 {
+    background-color: yellow;
+}
+
+.first1, .second2 {
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
